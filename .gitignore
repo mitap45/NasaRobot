@@ -3,3 +3,8 @@
 
 NasaRobot/bin/
 NasaRobot/obj/
+
+UnitTest/bin/
+UnitTest/obj/
+
+packages/

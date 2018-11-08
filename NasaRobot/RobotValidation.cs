@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 namespace NasaRobot
 {
     //Contains validations of the robot class
-    static class RobotValidation
+    public static class RobotValidation
     {
         //Validating location to match the following '3 5 N' pattern
         public static bool isLocationValid(string location)
